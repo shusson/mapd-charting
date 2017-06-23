@@ -54,7 +54,7 @@ mapdc.js.map
 mapdc.min.js.map
 mapdc.min.css
 
-dist/
+# dist/
 
 .nyc_output
 *.lcov
